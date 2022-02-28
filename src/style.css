@@ -1,1 +1,23 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-image: url("https://www.rdstation.com/blog/wp-content/uploads/sites/2/2017/09/Banco-de-im%C3%A1genes-6.png");
+}
+
+h1 {
+  font-size: 40px;
+  display: flex;
+  color: white;
+  justify-content: center;
+  background-color: rgb(135, 198, 228);
+
+  position: relative;
+  bottom: -30px;
+}
+h2 {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  bottom: -20px;
+}
